@@ -1,8 +1,8 @@
-int main(void) {
-  Hmne, I’m @Vinnyfcec;
-  Like python, ai, hotdog and clouds;
-  I’m currently learning python and drink water;
-  I’m looking to collaborate on python's dev;
-  How to reach me: viniciusfcec@gmail.com;
-return 0;
+int main() {
+ cout<< name = "Vinícius"<< endl;
+ cout<< status = "INF 1/3"<< endl;
+ cout<< interests = [py, ai, hotdog, music, clouds]<< endl;
+ cout<< looking for = "py's dev"<< endl;
+ cout<< contact = viniciusfcec@gmail.com;
+  return 0;
 }
